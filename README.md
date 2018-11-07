@@ -44,3 +44,8 @@ Junto con toda la información que nos brindó la empresa, pasamos a enteder el 
 
 
 ![UserPersonas](https://crisescobar.files.wordpress.com/2018/11/whatsapp-image-2018-11-06-at-20-00-55.jpeg)
+
+
+## Propuesta
+
+[Prototipo interactivo](https://www.figma.com/proto/cFjFIoP5xgPPzq1Hqs4nf6Xi/Reto-Everis-Hackaton?node-id=0%3A1&viewport=57%2C220%2C0.0484329&scaling=min-zoom)
